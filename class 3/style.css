@@ -1,0 +1,33 @@
+.first-div {
+    background-color:  lightgreen;
+    color: rgba(0,0,255,0.5 );
+    text-align: center;
+    text-shadow: 2px 2px;
+}
+
+
+.second-div {
+    background-color:  green;
+    position: sticky;
+    top: 10px;
+    left: 10px;
+}
+
+
+.third-div {
+    background-color: palevioletred;
+    position: absolute;
+    top: 20px;
+
+}
+.fourth-div {
+    background-color: tomato  ;
+    position: relative;
+    top: 20px;
+}
+
+.fifth-div {
+    background-color: yellow;
+    position: fixed;
+    top: 10px;
+}
